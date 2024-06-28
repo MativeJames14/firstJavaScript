@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana;
+    font-size: 2em;
+}
+#mySubmit{
+    padding: 20px;
+    font-size: 20px;
+}
+#myText{
+    padding: 20px;
+    font-size: 20px;
+}
